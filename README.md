@@ -9,7 +9,7 @@
   - Language: Go
   - Network: Istio, Envoy, Flagger
   - Telemetry: Prometheus+Grafana, OpenTelemetry
-  - Kubernetes: Kubernetes Operator, FluxCD
+  - Kubernetes: Kubernetes Operator
   - Virtual Machine: QEMU/KVM
 
 ## Skills
