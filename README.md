@@ -11,7 +11,7 @@
   - Telemetry: Prometheus+Grafana, OpenTelemetry
   - Kubernetes: Kubevela, Kubernetes Operator
   - DevOps: Pulumi/Terraform, Flagger, Argo Workflow
-  - Virtual Machine: QEMU/KVM
+  - Virtual Machine: ProxmoxVE, QEMU/KVM
 
 ## Skills
 
