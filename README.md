@@ -5,11 +5,12 @@
 </a>
 
 - 🔭 I’m currently working on DevOps.
-- 🌱 I’m currently learning:
-  - Language: Go
-  - Network: Istio, Envoy, Flagger
+- 🌱 I’m currently learning or using:
+  - Language: Go, Python
+  - Network: Istio, Envoy, Clilium
   - Telemetry: Prometheus+Grafana, OpenTelemetry
-  - Kubernetes: Kubernetes Operator
+  - Kubernetes: Kubevela, Kubernetes Operator
+  - DevOps: Pulumi/Terraform, Flagger, Argo Workflow
   - Virtual Machine: QEMU/KVM
 
 ## Skills
