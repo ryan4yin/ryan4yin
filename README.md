@@ -4,14 +4,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan4yin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true" />
 </a>
 
-- 🔭 I’m currently working on DevOps.
+- 🔭 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning or using:
   - Language: Go, Python
-  - Network: Istio, Envoy, Clilium
-  - Telemetry: Prometheus+Grafana, OpenTelemetry
+  - Network: Openresty, Istio, Clilium
   - Kubernetes: Kubevela, Kubernetes Operator
-  - DevOps: Pulumi/Terraform, Flagger, Argo Workflow
-  - Virtual Machine: ProxmoxVE, QEMU/KVM
+  - DevOps: Argo Workflows, Pulumi, Flagger
+  - Telemetry: Prometheus, Grafana
+  - Linux: eBPF, ipvs, KVM
 
 ## Skills
 
