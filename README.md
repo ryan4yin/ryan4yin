@@ -15,7 +15,7 @@
 
 ## Skills
 
-![](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=Kubernetes&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)
+[![](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=Kubernetes&logoColor=fff)](https://github.com/kubernetes/kubernetes)
+[![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)](https://github.com/torvalds/linux)
+[![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)](https://github.com/python/cpython)
+[![](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://github.com/golang/go)
