@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning or using:
   - Language: Go, Python
   - Network: Istio, APISIX
-  - Kubernetes: Kubernetes Operator, Kubevela
+  - Kubernetes: Kubernetes Operator
   - DevOps: Pulumi, Flagger
   - Telemetry: Prometheus, Grafana
   - Linux: Container, KVM, eBPF, ipvs
