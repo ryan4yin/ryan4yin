@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning or using:
   - Language: Go, Python
-  - Network: Istio, APISIX
+  - Network: Istio, Openresty
   - Kubernetes: Kubernetes Operator
   - DevOps: Pulumi, Flagger
   - Telemetry: Prometheus, Grafana
