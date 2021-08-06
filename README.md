@@ -4,12 +4,11 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan4yin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true" />
 </a>
 
-- 🔭 I’m currently working on SRE/DevOps.
+- 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning or using:
   - Language: Go, Python
-  - Network: Istio, Openresty
+  - Network: Openresty/APISIX, Istio, Cilium/Flannel/Calico
   - Kubernetes: Kubernetes Operator
-  - DevOps: Pulumi, Flagger
   - Telemetry: Prometheus, Grafana
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
@@ -18,8 +17,11 @@
   - [The Linux Programming Interface](https://www.man7.org/tlpi/index.html)
   - Computer Networking: A Top-Down Approach, 7th Edition
   - [Systems Performance: Enterprise and the Cloud, 2nd Edition (2020)](http://www.brendangregg.com/systems-performance-2nd-edition-book.html)
+- ✅ what I had learned but DO NOT using now
+  - DevOps: Pulumi/Terraform, Flagger
 
-## Skills
+
+## Skills 
 
 [![](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=Kubernetes&logoColor=fff)](https://github.com/kubernetes/kubernetes)
 [![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)](https://github.com/torvalds/linux)
