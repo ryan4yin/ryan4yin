@@ -17,7 +17,7 @@
   - [The Linux Programming Interface](https://www.man7.org/tlpi/index.html)
   - Computer Networking: A Top-Down Approach, 7th Edition
   - [Systems Performance: Enterprise and the Cloud, 2nd Edition (2020)](http://www.brendangregg.com/systems-performance-2nd-edition-book.html)
-- ✅ what I had learned but DO NOT using now
+- ✅ what I had learned but DO NOT using currently:
   - DevOps: Pulumi/Terraform, Flagger
 
 
