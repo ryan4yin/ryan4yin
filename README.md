@@ -13,6 +13,7 @@
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
   - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
+  - [agentzh's nginx tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html)
 - ✅ what I had learned but DO NOT using currently:
   - DevOps: Pulumi/Terraform, Flagger
 
