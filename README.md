@@ -12,11 +12,7 @@
   - Telemetry: Prometheus, Grafana
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
-  - [Computer Systems: A Programmer's Perspective, 3/E (CS:APP3e)](http://www.csapp.cs.cmu.edu/)
-  - [Designing Data-Intensive Applications](https://dataintensive.net/)
-  - [The Linux Programming Interface](https://www.man7.org/tlpi/index.html)
-  - Computer Networking: A Top-Down Approach, 7th Edition
-  - [Systems Performance: Enterprise and the Cloud, 2nd Edition (2020)](http://www.brendangregg.com/systems-performance-2nd-edition-book.html)
+  - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
 - ✅ what I had learned but DO NOT using currently:
   - DevOps: Pulumi/Terraform, Flagger
 
