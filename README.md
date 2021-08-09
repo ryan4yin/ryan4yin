@@ -7,9 +7,8 @@
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning or using:
   - Language: Go, Python
-  - Network: Openresty/APISIX, Istio, Cilium/Flannel/Calico
+  - Network: Nginx/Openresty/APISIX
   - Kubernetes: Kubernetes Operator
-  - Telemetry: Prometheus, Grafana
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
   - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook)
