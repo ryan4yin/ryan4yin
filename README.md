@@ -17,8 +17,8 @@
 
 ## Skills 
 
-[![](https://img.shields.io/badge/-Kubernetes-326de6?style=flat-square&logo=Kubernetes&logoColor=fff)](https://github.com/kubernetes/kubernetes)
-[![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)](https://github.com/torvalds/linux)
-[![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)](https://github.com/python/cpython)
-[![](https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=Go&logoColor=fff)](https://github.com/golang/go)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)
+[![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
