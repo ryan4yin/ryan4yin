@@ -11,8 +11,6 @@
   - Kubernetes: Kubernetes Operator
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
-  - [agentzh's nginx tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html)
-
 
 ## Skills 
 
