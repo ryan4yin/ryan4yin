@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning or using:
   - Language: Rust, Python, Go
-  - Network: Nginx/Openresty/APISIX
+  - Network: Nginx/Openresty/APISIX, Envoy
   - Kubernetes: Calico/Flannel/Cilium
   - Linux: Namespace/Cgroups
 - 📖 I'm reading those technical books:
