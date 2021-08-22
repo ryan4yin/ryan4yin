@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning or using:
   - Language: Rust, Python, Go
   - Network: Nginx/Openresty/APISIX
-  - Kubernetes: Operator, Calico/Flannel/Cilium
-  - Linux: Container, KVM, eBPF, ipvs
+  - Kubernetes: Calico/Flannel/Cilium
+  - Linux: Namespace/Cgroups
 - 📖 I'm reading those technical books:
 
 ## Skills 
