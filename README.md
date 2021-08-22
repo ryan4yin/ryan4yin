@@ -6,9 +6,9 @@
 
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning or using:
-  - Language: Go, Python
+  - Language: Rust, Python, Go
   - Network: Nginx/Openresty/APISIX
-  - Kubernetes: Kubernetes Operator
+  - Kubernetes: Kubernetes Operator, Kubernetes Networks
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
 
