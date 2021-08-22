@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning or using:
   - Language: Rust, Python, Go
   - Network: Nginx/Openresty/APISIX
-  - Kubernetes: Kubernetes Operator, Kubernetes Networks
+  - Kubernetes: Operator, Calico/Flannel/Cilium
   - Linux: Container, KVM, eBPF, ipvs
 - 📖 I'm reading those technical books:
 
