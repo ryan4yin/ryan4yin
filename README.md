@@ -6,8 +6,8 @@
 
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning:
-  - Language: Lua, Rust
-  - Network Gateway: APISIX
+  - Language: Lua, Rust, Go
+  - Network Gateway: APISIX, Envoy
 - 📖 I'm reading those technical books:
   - [Programming in Lua](https://www.lua.org/pil/)
 
