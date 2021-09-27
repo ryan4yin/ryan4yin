@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning:
   - Language: Lua, Rust, Go
-  - Kubernetes: Network, Controller/Operator.
+  - Kubernetes: Network, Controller/Operator
   - Network Gateway: Openresty/APISIX
 - 📖 I'm reading those technical books:
   - [Programming in Lua](https://www.lua.org/pil/)
