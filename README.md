@@ -10,7 +10,7 @@
   - Kubernetes: Network, Controller/Operator
   - Network Gateway: Openresty/APISIX
 - 📖 I'm reading those technical books:
-  - [Programming in Lua](https://www.lua.org/pil/)
+  - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
 
 ## Skills
 
