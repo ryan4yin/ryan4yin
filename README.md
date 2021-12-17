@@ -6,11 +6,9 @@
 
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning:
-  - Language: Lua, Rust, Go
-  - Kubernetes: Network, Controller/Operator
-  - Network Gateway: Openresty/APISIX
+  - Language: Rust, Go
+  - Kubernetes: Istio/Envoy + Cilium Service Mesh
 - 📖 I'm reading those technical books:
-  - [ThinkDSP](https://github.com/AllenDowney/ThinkDSP)
 
 ## Skills
 
@@ -24,6 +22,7 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
+[![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)](https://github.com/istio/istio)
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://github.com/nginx/nginx)
 
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
