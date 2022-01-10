@@ -6,7 +6,8 @@
 
 - 👨‍💻 I’m currently working on SRE/DevOps.
 - 🌱 I’m currently learning:
-  - Language: Rust, Go
+  - Programming Languages: Rust, Go
+  - Vocal Synthesizer: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
   - Kubernetes: Istio/Envoy + Cilium Service Mesh
 - 📖 I'm reading those technical books:
 
