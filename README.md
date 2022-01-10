@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning:
   - Programming Languages: Rust, Go
   - Vocal Synthesizer: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
-  - Kubernetes: Istio/Envoy + Cilium Service Mesh
+  - Kubernetes: Istio/Envoy, Cilium, Kubebuilder
 - 📖 I'm reading those technical books:
 
 ## Skills
