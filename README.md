@@ -4,12 +4,15 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ryan4yin&show_icons=true&hide_border=false&icon_color=ffb90f&title_color=586069&count_private=true&include_all_commits=true" />
 </a>
 
-- 👨‍💻 I’m currently working on SRE/DevOps.
+- 👨‍💻 I’m currently working on **SRE/DevOps**.
 - 🌱 I’m currently learning:
-  - Programming Languages: Rust, Go
+  - Programming Languages: **Go**
+  - Kubernetes: **Istio/Envoy, Cilium, Kubebuilder**
   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
-  - Kubernetes: Istio/Envoy, Cilium, Kubebuilder
 - 📖 I'm reading those technical books:
+  - [x] No Longer Human, Osamu Dazai
+  - [ ] The End of Your Life Book club, Will Schwalbe
+  - [ ] Death Is But a Dream
 
 ## Skills
 
