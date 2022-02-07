@@ -10,9 +10,9 @@
   - Kubernetes: **Istio/Envoy, Cilium, Kubebuilder**
   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
 - 📖 I'm reading those technical books:
-  - [x] No Longer Human, Osamu Dazai
-  - [ ] The End of Your Life Book club, Will Schwalbe
-  - [ ] Death Is But a Dream
+  - [x] No Longer Human, by Osamu Dazai
+  - [ ] The End of Your Life Book Club
+  - [ ] Death Is But a Dream: Finding Hope and Meaning at Life's End
 
 ## Skills
 
