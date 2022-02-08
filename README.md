@@ -7,7 +7,7 @@
 - 👨‍💻 I’m currently working on **SRE/DevOps**.
 - 🌱 I’m currently learning:
   - Programming Languages: **Go**
-  - Kubernetes: **Istio/Envoy, Cilium, Kubebuilder**
+  - Kubernetes: **Istio/Envoy, Kubebuilder**
   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
 - 📖 I'm reading those technical books:
   - [x] No Longer Human, by Osamu Dazai
