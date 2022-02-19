@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on **SRE/DevOps**.
 - 🌱 I’m currently learning:
-  - Programming Languages: **Go**
+  - Programming Languages: **Go, Rust**
   - Kubernetes: **Istio/Envoy, Kubebuilder**
 <!--   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm) -->
 - 📖 I'm reading those technical books:
