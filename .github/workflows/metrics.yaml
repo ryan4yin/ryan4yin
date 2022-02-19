@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Classic Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.19
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
