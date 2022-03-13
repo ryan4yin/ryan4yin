@@ -10,10 +10,8 @@
   - Kubernetes: **Istio/Envoy, Kubebuilder**
 <!--   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm) -->
 - 📖 I'm reading those books:
-  - [x] No Longer Human, by Osamu Dazai
   - [ ] The End of Your Life Book Club
   - [ ] Death Is But a Dream: Finding Hope and Meaning at Life's End
-  - [ ] [Practical Cryptography for Developers](https://github.com/nakov/Practical-Cryptography-for-Developers-Book)
 
 ## Skills
 
