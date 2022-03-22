@@ -4,7 +4,6 @@
   <img align="right" src="/metrics.classic.svg"/>
 </a>
 
-- 👨‍💻 I’m currently working on **SRE/DevOps**.
 - 🌱 I’m currently learning:
   - Programming Languages: **Go, Rust**
   - Kubernetes: **Istio/Envoy, Kubebuilder**
