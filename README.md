@@ -9,8 +9,9 @@
   - Kubernetes: **Istio/Envoy, Kubebuilder**
 <!--   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm) -->
 - 📖 I'm reading those books:
-  - [ ] The End of Your Life Book Club
-  - [ ] Death Is But a Dream: Finding Hope and Meaning at Life's End
+  - [ ] Operating Systems - Three Easy Pieces
+  - [ ] Computer Networking - A Top-Down Approach, 7e
+  - [ ] Social Psychology, 13e, David Myers
 
 ## Skills
 
