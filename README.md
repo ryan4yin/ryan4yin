@@ -9,9 +9,10 @@
   - Kubernetes: **Istio/Envoy, Kubebuilder**
 <!--   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm) -->
 - 📖 I'm reading those books:
-  - [ ] Operating Systems - Three Easy Pieces
+  - [ ] 深入剖析 Kuberntes
+  - [ ] Programming Kubernetes - Developing Cloud Native Applications
+  - [ ] The ANSI C Programming Language
   - [ ] Computer Networking - A Top-Down Approach, 7e
-  - [ ] Social Psychology, 13e, David Myers
 
 ## Skills
 
