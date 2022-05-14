@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning:
   - Programming Languages: **Go, Rust**
   - Kubernetes: **Istio/Envoy, Kubebuilder**
+  - Blockchain: **Web3 & Ethereum Development**
 <!--   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm) -->
+<!--   - Modeling & Design: Blender, Unreal Engine 5 & C++, Figma -->
 - 📖 I'm reading those books:
   - [ ] Programming Kubernetes - Developing Cloud Native Applications
   - [ ] The ANSI C Programming Language
