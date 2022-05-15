@@ -5,16 +5,19 @@
 </a>
 
 - 🌱 I’m currently learning:
-  - Programming Languages: **Go, Rust**
-  - Kubernetes: **Istio/Envoy, Kubebuilder**
+  - Programming Languages: **Go, Solidity**
+  - Kubernetes: **Istio/Envoy, Kubebuilder, Calico**
+    - Programming Kubernetes - Developing Cloud Native Applications
   - Blockchain: **Web3 & Ethereum Development**
-<!--   - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm) -->
-<!--   - Modeling & Design: Blender, Unreal Engine 5 & C++, Figma -->
-- 📖 I'm reading those books:
-  - [ ] Programming Kubernetes - Developing Cloud Native Applications
-  - [ ] The ANSI C Programming Language
-  - [ ] Computer Networking - A Top-Down Approach, 7e
-
+- 🤤 I want to learn:
+  - Programming Languages: **Rust, C**
+    - The ANSI C Programming Language
+  - OS: Linux
+  - Network: L3/L4/L7
+    - Computer Networking - A Top-Down Approach, 7e
+  - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
+  - Modeling & Design: Blender, Unreal Engine 5 & C++, Figma
+  - Economics: Principles Of Economics, 9e, N. Gregory Mankiw
 ## Skills
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -22,7 +25,7 @@
 
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python/cpython)
 [![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/golang/go)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang/rust)
+<!-- [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang/rust) -->
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes)
 [![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)](https://github.com/istio/istio)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
