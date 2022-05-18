@@ -15,7 +15,7 @@
   - OS: Linux
   - Network: L3/L4/L7
     - Computer Networking - A Top-Down Approach, 7e
-  - Music: [Synthesizer V](https://dreamtonics.com/en/synthesizerv/) + [Reaper](https://www.reaper.fm)
+  - Music: [SynthesizerV](https://dreamtonics.com/en/synthesizerv/)/[ACE](https://space.bilibili.com/418030) + [Reaper](https://www.reaper.fm)
   - Modeling & Design: Blender, Unreal Engine 5 & C++, Figma
   - Economics: Principles Of Economics, 9e, N. Gregory Mankiw
 ## Skills
