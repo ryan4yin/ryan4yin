@@ -9,6 +9,7 @@
   - Kubernetes: **Istio/Envoy, Kubebuilder, Calico**
     - Programming Kubernetes - Developing Cloud Native Applications
   - Blockchain: **Web3 & Ethereum Development**
+  - AI: [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
 - 🤤 I want to learn:
   - Programming Languages: **Rust, C**
     - The ANSI C Programming Language
