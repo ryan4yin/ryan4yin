@@ -19,6 +19,9 @@
   - Music: [SynthesizerV](https://dreamtonics.com/en/synthesizerv/)/[ACE](https://space.bilibili.com/418030) + [Reaper](https://www.reaper.fm)
   - Modeling & Design: Blender, Unreal Engine 5 & C++, Figma
   - Economics: Principles Of Economics, 9e, N. Gregory Mankiw
+  - Psychology:
+    - Intimate Relationships, 7e, Rowland S. Miller
+
 ## Skills
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
