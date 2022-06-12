@@ -4,7 +4,8 @@
   <img align="right" src="/metrics.classic.svg"/>
 </a>
 
-- Working on SRE/DevOps, using Kubernetes, Istio/Envoy, Go/Python, AWS/GCP, etc.
+- Working on SRE/DevOps
+- using Kubernetes, Istio/Envoy, Go/Python, AWS/GCP, etc.
 - Interested in Linux, Networking, Distributed System(like Blockchain), and many other stuffs.
 - learn more about me at <https://thiscute.world/en/about/>
 
