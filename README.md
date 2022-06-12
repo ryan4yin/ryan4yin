@@ -4,23 +4,9 @@
   <img align="right" src="/metrics.classic.svg"/>
 </a>
 
-- 🌱 I’m currently learning:
-  - Programming Languages: **Go, Solidity**
-  - Kubernetes: **Istio/Envoy, Kubebuilder**
-    - Programming Kubernetes - Developing Cloud Native Applications
-  - AI: [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
-  - Psychology:
-    - Intimate Relationships, 7e, Rowland S. Miller
-- 🤤 I want to learn:
-  - Programming Languages: **Rust, C**
-    - The ANSI C Programming Language
-  - OS: Linux
-  - Network: L3/L4/L7
-    - Computer Networking - A Top-Down Approach, 7e
-  - Blockchain: **Web3 & Ethereum Development**
-  - Music: [SynthesizerV](https://dreamtonics.com/en/synthesizerv/)/[ACE](https://space.bilibili.com/418030) + [Reaper](https://www.reaper.fm)
-  - Modeling & Design: Blender, Unreal Engine 5 & C++, Figma
-  - Economics: Principles Of Economics, 9e, N. Gregory Mankiw
+- Working on SRE/DevOps, using Kubernetes, Istio/Envoy, Kubebuilder, Go/Python, AWS/GCP, etc.
+- Interested in Linux, Networking, Distributed System(like Blockchain), and many other stuffs.
+- learn more about me at <https://thiscute.world/en/about/>
 
 ## Skills
 
