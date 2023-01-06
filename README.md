@@ -5,7 +5,7 @@
 </a>
 
 - Working on SRE/DevOps
-- using Kubernetes, Istio/Envoy, Go/Python, AWS/GCP, etc.
+- using Kubernetes, Istio/Envoy, Go/Python/C, AWS/GCP, etc.
 - Interested in Hardware, Linux, Kubernetes, Networking, and many other stuffs.
 - learn more about me at <https://thiscute.world/en/about/>
 
