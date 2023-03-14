@@ -5,7 +5,7 @@
 </a>
 
 - Using Kubernetes, Istio/Envoy, Go/Python/C, AWS/GCP, etc.
-- Interested in Embedded System, Linux, Kubernetes, Networking, and many other stuffs.
+- Interested in Embedded/IoT, Linux, Kubernetes, Networking, and many other stuffs.
 - Learn more about me at <https://thiscute.world/en/about/>
 
 ## Skills
