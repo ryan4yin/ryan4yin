@@ -1,12 +1,23 @@
 ## Ryan Yin
 
-<a href="https://github.com/lowlighter/metrics">
-  <img align="right" src="/metrics.classic.svg"/>
-</a>
-
 - Using Kubernetes, Istio/Envoy, Go/Python/C, AWS/GCP, etc.
 - Interested in Embedded/IoT, Linux(especially NixOS), Kubernetes, Networking, and many other pieces of stuff.
 - Learn more about me at <https://thiscute.world/en/about/>
+
+## My Github Metrics
+
+<a href="https://github.com/lowlighter/metrics">
+  <img src="/metrics.classic.svg"/>
+</a>
+
+<details>
+  <summary>Projects I created</summary>
+  <a href="https://github.com/ryan4yin?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="/metrics.plugin.repositories.starred.svg"/>
+  </a>
+</details>
+
+
 
 ## Skills
 
