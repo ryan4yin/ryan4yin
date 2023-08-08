@@ -4,7 +4,7 @@
 - Interested in Embedded/IoT, Linux(especially NixOS), Kubernetes, Networking, and many other pieces of stuff.
 - Learn more about me at <https://thiscute.world/en/about/>
 
-If you find my posts or projects helpful, please consider sponsoring:
+If you find my creation helpful, please consider sponsoring:
 
 - Buy me a coffee: <https://www.buymeacoffee.com/ryan4yin>
 - 爱发电: <https://afdian.net/a/ryan4yin>
