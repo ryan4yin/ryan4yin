@@ -41,11 +41,6 @@ If you find my creation helpful, please consider sponsoring:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](http://figma.com/)
-[![](https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://gohugo.io/)
-<!-- [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) -->
-<!-- [![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/ue-on-github) -->
-
 [![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://github.com/espressif/esp-idf)
 [![raspberry pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.org)
 [![](https://img.shields.io/badge/RISCV-283272.svg?style=for-the-badge&logo=RISC-V&logoColor=white)](https://riscv.org/)
@@ -59,3 +54,8 @@ If you find my creation helpful, please consider sponsoring:
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/vercel/vercel)
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/hashicorp/terraform)
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](http://figma.com/)
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088.svg?style=for-the-badge&logo=Hugo&logoColor=white)](https://gohugo.io/)
+<!-- [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) -->
+<!-- [![Unreal Engine 5](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://www.unrealengine.com/en-US/ue-on-github) -->
