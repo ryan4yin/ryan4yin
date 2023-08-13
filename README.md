@@ -1,7 +1,7 @@
 ## Ryan Yin
 
 - Using Kubernetes, Istio/Envoy, Go/Python/C, AWS/GCP, etc.
-- Interested in Embedded/IoT, Linux(especially NixOS), Kubernetes, Networking, and many other pieces of stuff.
+- Interested in Linux(especially NixOS), Embedded/IoT, Networking, and many other pieces of stuff.
 - Learn more about me at <https://thiscute.world/en/about/>
 
 If you find my creation helpful, please consider sponsoring:
