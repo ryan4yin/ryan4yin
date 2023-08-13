@@ -9,6 +9,7 @@ If you find my creation helpful, please consider sponsoring:
 - Patreon: <https://patreon.com/ryan4yin>
 - Buy me a coffee: <https://buymeacoffee.com/ryan4yin>
 - 爱发电: <https://afdian.net/a/ryan4yin>
+- Ethereum: `0xB74Aa43C280cDc8d8236952400bF6427E4390855`
 
 ## My Github Metrics
 
