@@ -6,7 +6,8 @@
 
 If you find my creation helpful, please consider sponsoring:
 
-- Buy me a coffee: <https://www.buymeacoffee.com/ryan4yin>
+- Patreon: <https://patreon.com/user?u=98899903>
+- Buy me a coffee: <https://buymeacoffee.com/ryan4yin>
 - 爱发电: <https://afdian.net/a/ryan4yin>
 
 ## My Github Metrics
