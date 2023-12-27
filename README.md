@@ -24,6 +24,12 @@ If you find my creation helpful, please consider sponsoring:
   </a>
 </details>
 
+<details>
+  <summary>📆 Commit calendar</summary>
+  <a href="https://github.com/ryan4yin?tab=repositories&q=&type=&language=&sort=stargazers">
+    <img src="/metrics.plugin.calendar.full.svg"/>
+  </a>
+</details>
 
 ## Skills
 
