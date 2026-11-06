@@ -15,6 +15,7 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: ryan4yin
           base: header, repositories
           plugin_lines: yes
       - name: Starred repositories
@@ -22,6 +23,7 @@ jobs:
         with:
           filename: metrics.plugin.repositories.starred.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: ryan4yin
           base: ""
           plugin_repositories: yes
           plugin_repositories_starred: 10
@@ -30,6 +32,7 @@ jobs:
         with:
           filename: metrics.plugin.calendar.full.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: ryan4yin
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
